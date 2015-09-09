@@ -2,7 +2,4 @@ print("Hello World!")
 myList = [1, 2, 3, 4]
 for i in myList:
 	k = i+i^i
-	if k mod 2 = 0:
-		print ("Hello world " + k)
-	else:
-		print ("Goodby")
+	print ("Hello world " + k)
