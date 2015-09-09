@@ -1,4 +1,5 @@
 print("Hello World!")
 myList = [1, 2, 3, 4]
 for i in myList:
-	print ("Hello world " + i)
+	k = i+i^i
+	print ("Hello world " + k)
